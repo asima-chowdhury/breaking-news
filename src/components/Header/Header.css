@@ -1,0 +1,10 @@
+.navbar-light .navbar-brand, .navbar-light .navbar-nav .nav-link, .jumbotron h1{
+    color: #b21f2d !important;
+    font-weight:bold;
+}
+.navbar-light .navbar-nav .nav-link img{
+    margin-right:10px;
+}
+.navbar{
+    border-bottom:2px solid #b21f2d;
+}
